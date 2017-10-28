@@ -1,0 +1,63 @@
+header{
+	background-color: orange;
+	width: 400px;
+}
+h1 {
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	color: white;
+}
+
+.instructions{
+	width: 400px;
+	background-color: #D2B48C;
+	margin-bottom: 10px;
+
+}
+
+p{
+	color: green;
+}
+.start{
+	height:105px;
+    width:300px;
+    display: inline-block;
+}
+.total{
+	width:150px;
+	height: 90px;
+	background-color: #49E692;
+	margin-right: 10px;
+	font-size: 30px;
+	color:black;
+
+}
+.results{
+	width:100px;
+	height: 100px;
+	background-color: #008B8B;
+	margin-left: 160px;
+	margin-top:-95px;
+}
+.crystal{
+	width:80px;
+	height:80px;
+}
+.score{
+	width: 180px;
+	height:30px;
+	background-color: #008080;
+	margin-bottom: 10px;
+}
+h3{
+	color: white;
+	padding-top: 7px;
+}
+.sum{
+	width:180px;
+	height:90px;
+	background-color: #008080;
+	font-size: 30px;
+	color: white;
+}
